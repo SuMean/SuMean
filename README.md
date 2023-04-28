@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-As a 23-year-old junior developer, I am a front-end developer My strength is the attitude of challenging new experiences without hesitation and executing them immediately.
+#### As a 23-year-old junior developer, I am a front-end developer My strength is the attitude of challenging new experiences without hesitation and executing them immediately.
 
 Here are some ideas to get you started:
 
