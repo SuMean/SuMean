@@ -10,7 +10,10 @@ My strength is the attitude of challenging new experiences without hesitation an
 
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> -->
 
-#### :pencil2: Study log
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+ <br />
+<h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="left">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
