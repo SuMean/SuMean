@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/sam010321@gmail.com-E34F26?style=flat-square&logo=gmail5&logoColor=white"/>
+
 #### Hi there 👋
 
 As a 23-year-old junior developer, I am a front-end developer My strength is the attitude of challenging new experiences without hesitation and executing them immediately.
