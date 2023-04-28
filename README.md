@@ -1,7 +1,6 @@
-### Hi there 👋
+#### Hi there 👋
 
-<!--
-**sam101321/sam101321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a 23-year-old junior developer, I am a front-end developer My strength is the attitude of challenging new experiences without hesitation and executing them immediately.
 
 Here are some ideas to get you started:
 
