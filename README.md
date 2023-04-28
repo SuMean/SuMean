@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/sam010321@gmail.com-E34F26?style=flat-square&logo=#EA4335&logoColor=white"/>
+<img src="https://img.shields.io/badge/sam010321@gmail.com-E34F26?style=flat-square&logo=gmail&logoColor=white"/>
 
 #### Hi there 👋
 
