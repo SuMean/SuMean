@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-As a 23-year-old junior developer, I am a front-end developer.
+As a 23-year-old junior developer, I am a front-end developer.< br/>
 My strength is the attitude of challenging new experiences without hesitation and executing them immediately.
 
 ### 📚 Stacks
