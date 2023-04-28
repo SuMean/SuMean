@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/sam010321@gmail.com-E34F26?style=flat-square&logo=gmail&logoColor=white"/>
+<a href=https://mail.google.com/><img src="https://img.shields.io/badge/sam010321@gmail.com-E34F26?style=flat-square&logo=gmail&logoColor=white"/>
 
 #### Hi there 👋
 
