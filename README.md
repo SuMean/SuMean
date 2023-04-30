@@ -24,4 +24,6 @@ My strength is the attitude of challenging new experiences without hesitation an
 <div align="left">
 
 ![sam101321's github stats](https://github-readme-stats.vercel.app/api?username=sam101321&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam101321&layout=compact">
+
 </div>
