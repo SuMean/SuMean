@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6DA9E4&height=300&section=header&text=WELCOME%20&fontSize=70&fontAlignY=45&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6DA9E4&height=200&section=header&text=WELCOME%20&fontSize=50&fontAlignY=40&fontColor=FFFFFF)
 
 <a href=https://mail.google.com /><img src="https://img.shields.io/badge/sam010321@gmail.com-E34F26?style=flat-square&logo=gmail&logoColor=white"/>
 
