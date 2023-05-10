@@ -1,3 +1,8 @@
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=50&duration=4000&pause=1000&color=279EF5&center=true&vCenter=true&width=500&lines=Hi+I'm+Frontend+Developer)](https://git.io/typing-svg)
+
+
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=6DA9E4&height=200&section=header&text=WELCOME%20&fontSize=50&fontAlignY=40&fontColor=FFFFFF)
 
 
