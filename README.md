@@ -1,15 +1,17 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=50&duration=4000&pause=1000&color=279EF5&center=true&vCenter=true&width=500&lines=Hi+I'm+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=60&duration=4000&pause=1000&color=279EF5&center=true&vCenter=true&width=1000&height=80&lines=Hi+I'm+Frontend+Developer)](https://git.io/typing-svg)
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=6DA9E4&height=200&section=header&text=WELCOME%20&fontSize=50&fontAlignY=40&fontColor=FFFFFF)
 
 
  -->
- 
+ <div align="center">
 <a href="https://https://velog.io/@sam101321"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href=https://mail.google.com /><img src="https://img.shields.io/badge/sam010321@gmail.com-E34F26?style=flat-square&logo=gmail&logoColor=white"/> 
-
+</div>
+ <div align="center">
+  
 #### Hi there 👋
 
 As a 23-year-old junior developer, I am a front-end developer.<br />
@@ -24,12 +26,12 @@ My strength is the attitude of challenging new experiences without hesitation an
 
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> -->
 
+</div>
 
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-<h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
-
-<div align="left">
+<div align="center">
 <!--  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sam101321&theme=tokyonight&show_icons=true" width="42%" />
 </a>
