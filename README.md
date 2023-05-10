@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6DA9E4&height=200&section=header&text=WELCOME%20&fontSize=50&fontAlignY=40&fontColor=FFFFFF)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=6DA9E4&height=200&section=header&text=WELCOME%20&fontSize=50&fontAlignY=40&fontColor=FFFFFF)
+ -->
 <a href="https://https://velog.io/@sam101321"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href=https://mail.google.com /><img src="https://img.shields.io/badge/sam010321@gmail.com-E34F26?style=flat-square&logo=gmail&logoColor=white"/> 
 
 #### Hi there 👋
