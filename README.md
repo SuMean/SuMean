@@ -19,21 +19,21 @@ My strength is the attitude of challenging new experiences without hesitation an
 
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> -->
 
- <br />
+
 
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 
 <div align="left">
- <a href="s">
+<!--  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sam101321&theme=tokyonight&show_icons=true" width="42%" />
 </a>
  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam101321&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
+</a> -->
 
 
-<!-- ![sam101321's github stats](https://github-readme-stats.vercel.app/api?username=sam101321&show_icons=true)
+![sam101321's github stats](https://github-readme-stats.vercel.app/api?username=sam101321&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam101321&layout=compact">
- -->
+
 </div>
