@@ -11,7 +11,7 @@
  
  <div align="center">
   
- #### Hi there 👋
+ #### Hi there I'm SUMIN 👋
 
 As a 23-year-old junior developer<br />
 My strength is the attitude of challenging new experiences <br /> 
