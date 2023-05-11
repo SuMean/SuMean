@@ -15,7 +15,7 @@
   
  #### Hi there 👋
 
-As a 23-year-old junior developer,<br />
+As a 23-year-old junior developer<br />
 My strength is the attitude of challenging new experiences 
 <br />  without hesitation and executing them immediately.
 <br />
