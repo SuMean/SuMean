@@ -1,13 +1,13 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=60&duration=4000&pause=1000&color=2E94F5FF&center=true&vCenter=true&width=1000&height=80&lines=Hi+I'm+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=60&duration=4000&pause=1200&color=2E94F5FF&center=true&vCenter=true&width=1000&height=80&lines=Hi+I'm+Frontend+Developer)](https://git.io/typing-svg)
 
 
 
 <div align="center">
 <a href="https://velog.io/@sam101321"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href=https://mail.google.com /><img src="https://img.shields.io/badge/sam010321@gmail.com-E34F26?style=flat-square&logo=gmail&logoColor=white"/> 
 </div>
-<br />
+
  
  <div align="center">
   
