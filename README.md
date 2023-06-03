@@ -4,7 +4,7 @@
 
 <div align="center">
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsam101321%2Fhit-counter&count_bg=%2367AEFD&title_bg=%234B81FF&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunDoo%2Fhit-counter&count_bg=%2367AEFD&title_bg=%234B81FF&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 </div>
 <div align="center">
@@ -34,12 +34,12 @@ without hesitation and executing them immediately. -->
 <h3 align="center">🌊 About Me 🌊 </h3>
 <div align="center">
   <br />
-<a href="https://velog.io/@sam101321"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href=https://mail.google.com /><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=gmail&logoColor=white"/> 
+<a href="https://velog.io/@YunDoo"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href=https://mail.google.com /><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=gmail&logoColor=white"/> 
  </div>
  <br />
 <div align="center">
  
-![sam101321's github stats](https://github-readme-stats.vercel.app/api?username=sam101321&show_icons=true)
+![sam101321's github stats](https://github-readme-stats.vercel.app/api?username=YunDoo&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam101321&layout=compact&hide_border=true">
 
 </div>
