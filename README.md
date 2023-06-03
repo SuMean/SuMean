@@ -36,7 +36,7 @@ without hesitation and executing them immediately. -->
  <br />
 <div align="center">
  
-![sam101321's github stats](https://github-readme-stats.vercel.app/api?username=YunDoo&show_icons=true)
+![YunDoo's github stats](https://github-readme-stats.vercel.app/api?username=YunDoo&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunDoo&layout=compact&hide_border=true">
 
 </div>
