@@ -19,7 +19,7 @@ My strength is the attitude of challenging new experiences <br />
 without hesitation and executing them immediately. -->
 
 ### 🛫 Tech Stack 🛫
-<br />
+
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> 
@@ -27,10 +27,10 @@ without hesitation and executing them immediately. -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
 
 </div>
-
+ <br />
 <h3 align="center">🌊 About Me 🌊 </h3>
 <div align="center">
-  <br />
+
 <a href="https://velog.io/@sam101321"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href=https://mail.google.com /><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=gmail&logoColor=white"/> 
  </div>
  <br />
