@@ -28,6 +28,8 @@ without hesitation and executing them immediately. -->
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Recoil-f26b00?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48ZyBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTQzIDE5OWE0OCA0OCAwIDEgMS05NiAwIDQ4IDQ4IDAgMCAxIDk2IDAiLz48cGF0aCBkPSJNNTA1IDQxNEgyMzhhNjQgNjQgMCAwIDEgMC0xMjhoMTIxYTM4IDM4IDAgMCAwIDAtNzVIOTVhMTMgMTMgMCAwIDEgMC0yNmgyNjRhNjQgNjQgMCAwIDEgMCAxMjhIMjM4YTM4IDM4IDAgMCAwIDAgNzVoMjY3YTEzIDEzIDAgMCAxIDAgMjZ6Ii8+PHBhdGggZD0iTTQ1NyA0MDFhNDggNDggMCAxIDEgOTYgMCA0OCA0OCAwIDAgMS05NiAwIi8+PC9nPjwvc3ZnPg==&logoColor=white"/>
+ 
 
 </div>
  <br />
