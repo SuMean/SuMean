@@ -20,15 +20,16 @@ without hesitation and executing them immediately. -->
 
 ### 🛫 Tech Stack 🛫
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-444444?style=for-flat-square&logo=javascript"/> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-flat-square&logo=Next.js&logoColor=white"/>
 <br />
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
- <img src="https://img.shields.io/badge/Recoil-f26b00?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHZpZXdCb3g9IjAgMCAyODggMjg4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTQ3IDIwNmM4IDkgMTAgMTggMTAgMjkgMCAzIDEgNSAzIDdhMjMgMjMgMCAwIDEtMTIgNDFjLTExIDEtMTktNS0yMi0xNS00LTktMS0xOSA2LTI1IDYtNSA3LTEwIDUtMTctMy04LTgtMTItMTYtMTMtMTctMi0yOS0xMy0zMS0yOS0yLTE3IDctMzEgMjMtMzggOS0zIDIwLTMgMjktNGwyOS00YzktMSAxNS04IDE1LTE2IDAtNy01LTEzLTEyLTE1bC05LTJjLTE2LTQtMjctMTgtMjctMzUgMC01LTEtOS02LTEzLTEwLTgtMTAtMjQtMi0zMyAxMC05IDI1LTkgMzQgMHM4IDI1LTIgMzNjLTcgNS02IDExLTUgMTggMiA3IDcgMTIgMTUgMTMgMTEgMSAyMSA2IDI4IDE2IDEzIDIyIDAgNDgtMjcgNTMtMTIgMy0yNiAzLTM5IDQtNSAxLTExIDEtMTYgNC03IDMtMTEgOS0xMCAxNnM3IDEzIDE1IDE0YzkgMSAxNyA0IDI0IDExeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0xMjIgMTMzLTUtMWMtNy03LTE0LTE0LTE4LTIyLTUtNy03LTE2LTgtMjQtMS00IDAtNSA0LTVoMTJjNSAyIDMgNyA0IDExIDIgNiA1IDExIDkgMTZsMTggMTkgMiA0Yy02IDItMTIgMS0xOCAyek0xOTcgMjIwaC0xYy00IDAtOCAxLTExLTEtNC0yLTItNi0zLTEwLTItNS01LTExLTktMTVsLTE3LTIwYy0yLTEtMy0yLTMtNGwyMS0yIDEgMWMxMyAxMiAyNCAyNCAyNiA0MnY1YzEgMy0xIDQtNCA0eiIvPjwvc3ZnPg==&logoColor=white"/>
- <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-flat-square&logo=TypeScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-flat-square&logo=react&logoColor=%2361DAFB"> 
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-flat-square&logo=Recoil&logoColor=white">
+ <img src="https://img.shields.io/badge/Sass-CC6699?style=for-flat-square&logo=Sass&logoColor=white"/>
+ 
 
  
 
@@ -37,7 +38,7 @@ without hesitation and executing them immediately. -->
 <h3 align="center">🌊 About Me 🌊 </h3>
 <div align="center">
 
-<a href="https://velog.io/@sam101321"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href=https://mail.google.com /><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=gmail&logoColor=white"/> 
+<a href="https://velog.io/@sam101321"><img src="https://img.shields.io/badge/Blog-000000?style=for-flat-square&logo=Velog&logoColor=white"/> <a href=https://mail.google.com /><img src="https://img.shields.io/badge/Gmail-E34F26?style=for-flat-square&logo=gmail&logoColor=white"/> 
  </div>
  <br />
 <div align="center">
