@@ -41,7 +41,6 @@ without hesitation and executing them immediately. -->
  </div>
  <br />
 <div align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuMean&layout=compact&hide_border=true">
+
 
 </div>
