@@ -41,6 +41,4 @@ without hesitation and executing them immediately. -->
  </div>
  <br />
 <div align="center">
-
-
 </div>
